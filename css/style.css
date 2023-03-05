@@ -1,0 +1,13 @@
+.navbar{
+    border-bottom: solid 4px skyblue;
+}
+body{
+    color: white;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.7) , rgba(0, 0, 0, 0.7)) ,
+    url(../image/home.jpg);
+    background-position: center;
+    background-size: cover;
+}
